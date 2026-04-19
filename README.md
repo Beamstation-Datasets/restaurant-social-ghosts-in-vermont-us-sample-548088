@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Vermont, US
 
-> Free BeamStation sample export with 2 rows and masked direct-contact fields.
+> Free BeamStation sample export with 1 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `548088` |
 | Location | Vermont |
 | Category | Restaurants |
-| Full dataset size | 24 records |
-| Free sample size | 2 records (8.33%) |
-| Last export | 2026-04-08T06:58:48.907001+00:00 |
+| Full dataset size | 18 records |
+| Free sample size | 1 records (5.56%) |
+| Last export | 2026-04-15T10:27:27.591018+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-vermont-us-sample-548088/releases/download/sample-latest/beamstation_548088_restaurants-us-vt_SAMPLE_DIST.csv) |
 
 ## What is in this sample
