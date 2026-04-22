@@ -1,12 +1,12 @@
 {
-  "export_job_id": "722ff823-97a2-42a4-bba3-4facacac125a",
+  "export_job_id": "3c3a5cee-61e8-483f-bf38-a36cf4d2d164",
   "id_short": 548088,
-  "published_at": "2026-04-19T07:31:56Z",
+  "published_at": "2026-04-22T19:54:07Z",
   "repo_name": "restaurant-social-ghosts-in-vermont-us-sample-548088",
   "sample_asset_name": "beamstation_548088_restaurants-us-vt_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/548088/beamstation_548088_restaurants-us-vt_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "d0bbfd6e555710798e85c98c32251600a2a404ff635ad4f299dd3d16c349ceea",
-  "sample_size_bytes": 19891,
-  "total_records": 18
+  "sample_sha256": "a0e5e47984790ded789be594cfe825061d38d2b00c0bfd748395b8c7e1226698",
+  "sample_size_bytes": 19779,
+  "total_records": 5
 }
