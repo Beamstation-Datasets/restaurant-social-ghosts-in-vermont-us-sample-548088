@@ -9,9 +9,9 @@
 | Dataset ID | `548088` |
 | Location | Vermont |
 | Category | Restaurants |
-| Full dataset size | 18 records |
-| Free sample size | 1 records (5.56%) |
-| Last export | 2026-04-15T10:27:27.591018+00:00 |
+| Full dataset size | 5 records |
+| Free sample size | 1 records (20.0%) |
+| Last export | 2026-04-22T18:01:47.520999+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-vermont-us-sample-548088/releases/download/sample-latest/beamstation_548088_restaurants-us-vt_SAMPLE_DIST.csv) |
 
 ## What is in this sample
