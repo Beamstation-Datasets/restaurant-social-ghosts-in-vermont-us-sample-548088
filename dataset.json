@@ -6,17 +6,17 @@
   "config_category": "social",
   "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
   "config_name": "Restaurant Social Ghosts in Vermont, US",
-  "export_job_id": "3c3a5cee-61e8-483f-bf38-a36cf4d2d164",
+  "export_job_id": "8bcc0e6d-33ec-4098-a82c-8e55d079047d",
   "github_org": "Beamstation-Datasets",
   "id_short": 548088,
   "location_name": "Vermont",
   "location_type": "state",
   "repo_name": "restaurant-social-ghosts-in-vermont-us-sample-548088",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/548088/beamstation_548088_restaurants-us-vt_SAMPLE_DIST.csv",
-  "sample_pct": 20.0,
+  "sample_pct": 7.69,
   "sample_records": 1,
-  "sample_sha256": "a0e5e47984790ded789be594cfe825061d38d2b00c0bfd748395b8c7e1226698",
-  "sample_size_bytes": 19779,
-  "total_records": 5,
-  "updated_at": "2026-04-22T18:01:47.520999+00:00"
+  "sample_sha256": "c8b1de3bc702ef3fcd5938d3cef33ef2186984480b24fd953fb722b17debafe3",
+  "sample_size_bytes": 21404,
+  "total_records": 13,
+  "updated_at": "2026-04-29T17:42:00.232417+00:00"
 }
